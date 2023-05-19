@@ -2,6 +2,7 @@
 Change log:
 
 05-19-2023
+
 By release the new logic PCBA(named ‘E-FUSE EG V07’), the old beta1 firmware are moved to ‘beta1 version’ directory.
 The new firmware are can not working on beta1 logic PCBA, and will no longer be supported, contact us if you are intrested to update your beta1 logic PCBA.
 
